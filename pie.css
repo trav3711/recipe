@@ -24,6 +24,6 @@ h2{
 .Copyright{
   font-family: monospace;
 }
-.links{
+.links:visited{
   color: #A4A400;
 }
