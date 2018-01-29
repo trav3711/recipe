@@ -1,0 +1,21 @@
+body{
+  background-color: #FAF2CF;
+  text-align: center;
+}
+h1{
+  text-decoration: underline;
+  font-family: cursive;
+  font-size: 50pt;
+  text-align: center;
+}
+.snoop{
+  text-align: center;
+  height: 460px;
+  overflow: hidden;
+}
+.haiku{
+  font-family: cursive;
+}
+.lemon{
+  font-family: cursive;
+}
